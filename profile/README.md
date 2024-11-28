@@ -14,9 +14,9 @@ Financial mismanagement is a common challenge among students, often leading to i
 | M002B4KX0575 | Annisa Bela Vadira         | ML            | [annisabela](https://github.com/annisabela)         |  
 | M002B4KY2156 | Keita Kamil Rahardyan      | ML            | [keitakamil](https://github.com/keitakamil)         |  
 | M002B4KX3622 | Rahma Okta Feriska         | ML            | [rahmaferiska](https://github.com/rahmaferiska)     |  
-| C546B4NY0245 | Ahmeid Aqeil               | CC            | [ahmeidaqeil](https://github.com/ahmeidaqeil)       |  
+| C546B4NY0245 | Ahmeid Aqeil               | CC            | [ahmeidaqeil](https://github.com/AhmeidAqeil))       |  
 | C546B4NY3626 | Rahmat Afriyanto           | CC            | [rahmatafriyanto](https://github.com/rahmatafriyanto)|  
-| A546B4NY1280 | Erliandika Syahputra       | MD            | [erliandika](https://github.com/erliandika)         |  
+| A546B4NY1280 | Erliandika Syahputra       | MD            | [erliandika](https://github.com/Erliandikasyahputraa)       |  
 | A546B4NY1375 | Fajri Nurhadi              | MD            | [fajrinurhadi](https://github.com/fajrinurhadi)     |  
 
 ## Repositories  
