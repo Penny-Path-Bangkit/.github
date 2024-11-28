@@ -15,9 +15,9 @@ Financial mismanagement is a common challenge among students, often leading to i
 | M002B4KY2156 | Keita Kamil Rahardyan      | ML            | [keitakamil](https://github.com/keitakamil)         |  
 | M002B4KX3622 | Rahma Okta Feriska         | ML            | [rahmaferiska](https://github.com/rahmaferiska)     |  
 | C546B4NY0245 | Ahmeid Aqeil               | CC            | [AhmeidAqeil](https://github.com/AhmeidAqeil)       |  
-| C546B4NY3626 | Rahmat Afriyanto           | CC            | [rahmatafriyanto](https://github.com/rahmatafriyanto)|  
-| A546B4NY1280 | Erliandika Syahputra       | MD            | [Erliandikasyahputraa](https://github.com/Erliandikasyahputraa)       |  
-| A546B4NY1375 | Fajri Nurhadi              | MD            | [fajrinurhadi](https://github.com/fajrinurhadi)     |  
+| C546B4NY3626 | Rahmat Afriyanto           | CC            | [rahmatafriyanto24](https://github.com/rahmatafriyanto24)|  
+| A546B4NY1280 | Erliandika Syahputra       | MD            | [Erliandikasyahputraa](https://github.com/Erliandikasyahputraa)|  
+| A546B4NY1375 | Fajri Nurhadi              | MD            | [fjreii](https://github.com/fjreii)    |  
 
 ## Repositories  
 
@@ -28,4 +28,4 @@ Financial mismanagement is a common challenge among students, often leading to i
 | Machine Learning  | [Penny Path ML](https://github.com/your-repo-ml)           |  
 
 ## Project Documents  
-- [Project Plan](https://drive.google.com/file/d/117fa7skGpOTBlynkuiJjZMX21agasxmF/view?usp=sharing)  
+- [Project Plan](https://drive.google.com/file/d/17u1_ADJxPu1LbimTNShBJ8ojbTGCtSUB/view?usp=drive_link)
