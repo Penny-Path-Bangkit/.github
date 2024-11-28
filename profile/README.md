@@ -23,7 +23,7 @@ Financial mismanagement is a common challenge among students, often leading to i
 
 | Learning Paths    | Link                                                        |  
 | :---------------: | :--------------------------------------------------------: |  
-| Mobile Development| [Penny Path Android](https://github.com/your-repo-android) |  
+| Mobile Development| [Penny Path Android](https://github.com/Penny-Path-Bangkit/Android-Penny-Path) |  
 | Cloud Computing   | [Penny Path Cloud](https://github.com/your-repo-cloud)     |  
 | Machine Learning  | [Penny Path ML](https://github.com/your-repo-ml)           |  
 
