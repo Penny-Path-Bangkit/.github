@@ -1,7 +1,7 @@
 # Penny Path: A Financial Literacy and Budgeting Assistant  
 
 <div align="center">  
-<img src="https://github.co/Mubazir-Bangkit-2023/.github/assets/95016158/f4a7c570-a890-43ee-b4cd-a67724b9f271" width="50%" height="50%">  
+<img src="Penny Path Mascot .png" width="50%" height="50%">  
 </div>  
 
 ## About  
