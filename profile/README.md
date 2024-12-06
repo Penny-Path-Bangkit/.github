@@ -5,7 +5,9 @@
 </div>  
 
 ## About  
-Financial mismanagement is a common challenge among students, often leading to increased debt and stress. "Penny Path" is a financial literacy and budgeting assistant app aimed at addressing these issues. By leveraging machine learning, this app provides personalized budgeting advice, tracks spending patterns, and promotes responsible financial behavior. The goal is to equip students with the tools and knowledge needed for lifelong financial health.  
+Hi there! Meet Penny Path, your friendly financial assistant designed to make managing money easier and stress-free. We know that budgeting and staying on top of your expenses can be overwhelming, especially for students. That’s why Penny Path is here to guide you every step of the way.
+
+Using the power of machine learning, Penny Path offers personalized budgeting tips, tracks your spending habits, and helps you make smarter financial decisions. Our goal? To help you build strong financial habits today for a brighter, more secure tomorrow. Ready to take charge of your finances? Let Penny Path lead the way!
 
 ## Team Members  
 
