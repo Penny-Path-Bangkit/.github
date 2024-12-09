@@ -26,7 +26,7 @@ Using the power of machine learning, Penny Path offers personalized budgeting ti
 | Learning Paths    | Link                                                        |  
 | :---------------: | :--------------------------------------------------------: |  
 | Mobile Development| [Penny Path Android](https://github.com/Penny-Path-Bangkit/Android-Penny-Path) |  
-| Cloud Computing   | [Penny Path Cloud](https://github.com/your-repo-cloud)     |  
+| Cloud Computing   | [Penny Path Cloud](https://github.com/Penny-Path-Bangkit/Cloud-Penny-Path)     |  
 | Machine Learning  | [Penny Path ML](https://github.com/your-repo-ml)           |  
 
 ## Project Documents  
